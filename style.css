@@ -1,0 +1,67 @@
+body{
+    background-color: #312A35;
+    overflow-x: hidden;
+}
+
+.header-text{
+    font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+}
+
+.hero-text{
+    margin-top: 15vh;
+    color: white;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 800;
+    font-size: 110px;
+    text-align: center;
+}
+
+.mars{
+    color:#F26D45;
+}
+
+.left-rocket{
+    margin-top: 10vh;
+}
+
+
+.right-rocket{
+    margin-top: 38vh;
+}
+
+.hero-button{
+    text-align: center;
+    padding: 20px 110px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 800;
+}
+
+.mission{
+    color: white;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+}
+
+.mars-text{
+    height: 85%;
+}
+
+.left-aligned-rocket{
+    margin-top: 45vh;
+}
+
+.right-earth{
+    margin-top: 32vh;
+}
+
+#Pricing{
+    height: 100vh;
+}
+
+#Footer{
+    height: 25px;
+    background-color: white;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+}
